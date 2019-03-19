@@ -14,9 +14,10 @@
     "@angular/platform-browser": "7.2.5",
     "@angular/platform-browser-dynamic": "7.2.5",
     "@angular/router": "7.2.5",
+    "@types/lodash": "^4.14.123",
     "core-js": "2.6.5",
     "lodash": "4.17.11",
-    "ng-material2-facet-search": "0.1.0",
+    "ng-material2-facet-search": "0.1.1",
     "rxjs": "6.4.0",
     "zone.js": "0.8.29"
   },
